@@ -73,6 +73,244 @@
     margin-left: -60px;
 }
 
+/* Hero style start here */
+
+.hero {
+    background-image: url(imges/Frame_Hero.jpg);
+    max-width: 100%;
+    min-width: 1214px;
+
+}
+
+.hero_text_part {
+    text-align: center;
+    padding-top: 122px;
+    padding-bottom: 75px;
+}
+
+.sub_header h2 {
+    font-size: 18px;
+    color: #7842E8;
+}
+
+.main_header h1 {
+    font-size: 66px;
+    font-weight: 700;
+    color: #686770;
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+
+.hero_p p {
+    font-size: 14px;
+    color: #919099;
+    padding-bottom: 24px;
+
+}
+
+.hero_btn {
+    display: flex;
+    justify-content: center;
+}
+
+.hero_left_btn {
+    padding: 8px 16px;
+    background-color: #7842E8;
+    border-radius: 60px;
+}
+
+.hero_left_btn a {
+    color: #ffff;
+    font-size: 12px;
+}
+
+.hero_right_btn {
+    display: flex;
+    align-items: center;
+    padding: 0px 18px 0 0px;
+    gap: 10px;
+    border: solid 1px #7842E8;
+    border-radius: 60px;
+}
+
+.hero_right_btn a {
+    font-size: 14px;
+}
+
+
+/* Tab Site */
+
+.simple_div {
+    max-width: 360px;
+    text-align: center;
+    border: solid 1px #ffffff;
+    box-shadow: 1px 1px 10px #F4EEFF;
+    padding: 32px 26px;
+    border-radius: 24px;
+}
+
+.simple_div img {
+    max-width: 127.44px;
+}
+
+.price_div h2 {
+    font-size: 50px;
+    font-weight: 700;
+    color: #111111;
+    padding-top: 32px;
+    padding-bottom: 8px;
+}
+
+.price_div span {
+    font-size: 20px;
+    color: #686770;
+}
+
+.price_div p {
+    font-size: 14px;
+    color: #2E2E32;
+}
+
+.price_div h3 {
+    font-size: 20px;
+    font-weight: 500;
+    color: #7842E8;
+    padding-top: 8px;
+    padding-bottom: 24px;
+}
+
+
+.hr {
+    border: dashed 1px #DBDADF;
+}
+
+.flex {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.flex p {
+    font-size: 18px;
+    font-weight: 500;
+    color: #2E2E32;
+}
+
+#flex {
+    padding-top: 24px;
+    padding-bottom: 8px;
+}
+
+#flex_2 {
+    padding-bottom: 24px;
+}
+
+.simple_btn {
+    display: inline-block;
+    padding: 12px 24px;
+    border: solid 1px #7842E8;
+    border-radius: 50px;
+
+}
+
+.simple_btn a {
+    font-size: 16px;
+    font-weight: 500;
+    color: #7842E8;
+
+}
+
+.different_style {
+    max-width: 360px;
+    min-height: 555px;
+    text-align: center;
+    border: solid 1px #f3f3f3;
+    box-shadow: 1px 1px 10px #F4EEFF;
+    padding: 32px 46px;
+    border-radius: 24px;
+    border-top: solid 6px #7842E8;
+}
+
+.different_style img {
+    max-width: 127.44px;
+}
+
+
+.different_1 h2 {
+    font-size: 50px;
+    font-weight: 700;
+    color: #111111;
+    padding-top: 32px;
+    padding-bottom: 8px;
+}
+
+.different_1 span {
+    font-size: 20px;
+    color: #686770;
+}
+
+.different_1 p {
+    font-size: 14px;
+    color: #2E2E32;
+}
+
+.different_1 h3 {
+    font-size: 20px;
+    font-weight: 500;
+    color: #7842E8;
+    padding-top: 8px;
+    padding-bottom: 24px;
+}
+
+
+.different_flex_1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+
+.different_flex_2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.different_flex_3 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.different_btn {
+    display: inline-block;
+    padding: 12px 24px;
+    border: solid 1px;
+    border: solid 1px #7842E8;
+    background-color: #7842E8;
+    border-radius: 50px;
+}
+
+.different_btn a {
+    font-size: 16px;
+    font-weight: 500;
+    color: #F4EEFF;
+}
+
+.hero_tab_part {
+    display: flex;
+    justify-content: space-between;
+    align-items: self-start;
+    padding-bottom: 199px;
+}
+
+/* Hero style end here */
+
+
+
 
 
 /*------------------------------- 
